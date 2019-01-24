@@ -132,7 +132,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [A2 Online Judge](https://a2oj.com/) - Online Judge and problem archive.
 * [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) - Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
 * [AIZU ONLINE JUDGE](http://judge.u-aizu.ac.jp/onlinejudge/) - Japanese Online Judge.
-* [Algo Muse](http://www.algomuse.appspot.com) - Research based algorithmic problems. 
+* [Algo Muse](https://algomuse.net) - Research based algorithmic problems. 
 * [AtCoder](https://atcoder.jp/) - Japanese programming contest website.
 * [Baekjoon Online Judge](https://www.acmicpc.net/) - Korean Online Judge. 10000+ problems. Supports 60+ languages.
 * [CS Academy](https://csacademy.com/) - Holds online contests and IOI practice contests
